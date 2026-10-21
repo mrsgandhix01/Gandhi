@@ -1,0 +1,6 @@
+{
+  "name": "Hey Gandhi",
+  "description": "Privacy-first bilingual (Hindi & English) offline wake-word personal assistant with Gemini AI, local system & Termux Python automation, and encrypted local transcript dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hey Gandhi</string>
+    <string name="notification_channel_name">Hey Gandhi Wake-Word Service</string>
+    <string name="notification_channel_desc">Persistent offline listening for the Hey Gandhi wake phrase</string>
+    <string name="notification_title_listening">Listening for \"Hey Gandhi\" • हे गांधी</string>
+    <string name="notification_text_offline">100% Offline Audio Stream • Zero Cloud Audio</string>
+    <string name="tab_assistant">Assistant</string>
+    <string name="tab_transcripts">Transcripts</string>
+    <string name="tab_automation">Automation</string>
+    <string name="tab_blueprint">Architecture</string>
+    <string name="wake_word_service_label">Persistent \"Hey Gandhi\" Wake-Word Engine</string>
+    <string name="privacy_banner_text">100% Zero-Login Local Privacy • Audio Never Leaves Device</string>
+    <string name="wipe_all_data">Wipe All Local Data</string>
+    <string name="export_transcripts">Export JSON</string>
+</resources>
